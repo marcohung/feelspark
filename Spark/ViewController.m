@@ -17,6 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
+    NSURL *url = [NSURL URLWithString:@"http://feelspark.com"];
+    NSURLRequest *request =[NSURLRequest requestWithURL:url];
+    [self.myweb loadRequest:request];
 }
 
 - (void)didReceiveMemoryWarning {
