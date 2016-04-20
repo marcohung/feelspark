@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Spark.xcodeproj">
+      location = "self:/Users/marcohung/Documents/Spark/Impulse.xcodeproj">
    </FileRef>
 </Workspace>

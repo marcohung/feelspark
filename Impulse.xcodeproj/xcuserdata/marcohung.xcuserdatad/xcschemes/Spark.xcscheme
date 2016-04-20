@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CC62F1381C77390C0053D195"
-               BuildableName = "Spark.app"
-               BlueprintName = "Spark"
-               ReferencedContainer = "container:Spark.xcodeproj">
+               BuildableName = "Impulse.app"
+               BlueprintName = "Impulse"
+               ReferencedContainer = "container:Impulse.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CC62F1511C77390C0053D195"
-               BuildableName = "SparkTests.xctest"
-               BlueprintName = "SparkTests"
-               ReferencedContainer = "container:Spark.xcodeproj">
+               BuildableName = "Impulse.xctest"
+               BlueprintName = "ImpulseTests"
+               ReferencedContainer = "container:Impulse.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CC62F15C1C77390C0053D195"
-               BuildableName = "SparkUITests.xctest"
-               BlueprintName = "SparkUITests"
-               ReferencedContainer = "container:Spark.xcodeproj">
+               BuildableName = "Impulse.xctest"
+               BlueprintName = "ImpulseUITests"
+               ReferencedContainer = "container:Impulse.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CC62F1381C77390C0053D195"
-            BuildableName = "Spark.app"
-            BlueprintName = "Spark"
-            ReferencedContainer = "container:Spark.xcodeproj">
+            BuildableName = "Impulse.app"
+            BlueprintName = "Impulse"
+            ReferencedContainer = "container:Impulse.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CC62F1381C77390C0053D195"
-            BuildableName = "Spark.app"
-            BlueprintName = "Spark"
-            ReferencedContainer = "container:Spark.xcodeproj">
+            BuildableName = "Impulse.app"
+            BlueprintName = "Impulse"
+            ReferencedContainer = "container:Impulse.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CC62F1381C77390C0053D195"
-            BuildableName = "Spark.app"
-            BlueprintName = "Spark"
-            ReferencedContainer = "container:Spark.xcodeproj">
+            BuildableName = "Impulse.app"
+            BlueprintName = "Impulse"
+            ReferencedContainer = "container:Impulse.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
